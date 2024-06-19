@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello and welcome! 👋
 
-<!--
-**dancher743/dancher743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniil. I'm Unity Developer and Modmaker from Belarus 🇧🇾 🦬
 
-Here are some ideas to get you started:
+Interested in:
+- game development and modding
+- computer science
+- programming
+- software architecture and design
+- development processes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Producer, tech lead and designer of the [mods compilation](https://github.com/dancher743/stalker-coc-mods-compilation) for S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22.
+
+_Viam supervadet vadens._
