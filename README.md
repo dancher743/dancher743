@@ -9,6 +9,6 @@ Interested in:
 - software architecture and design
 - development processes
 
-Producer, tech lead and designer of the [mods compilation](https://github.com/dancher743/stalker-coc-mods-compilation) for S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22 project.
+Producer, tech lead and designer of the [mods compilation](https://github.com/dancher743/stalker-coc-mods-compilation) for [S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22](https://www.moddb.com/mods/call-of-chernobyl/news/call-of-chernobyl-14-released) project.
 
 _Viam supervadet vadens._
